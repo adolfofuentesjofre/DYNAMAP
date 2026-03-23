@@ -1,0 +1,91 @@
+active	author	constitution	description	db_id	locale	name	id	short_name	source	subtopic	topic_id	topic_name	tweet
+1				1	en	Expand health care coverage and issuance of health cards	1	Healthcare coverage			1	Health	
+1				2	en	Tariff/Tax reduction on medicine	2	Taxes on drugs			1	Health	
+1				3	en	Enact a bill prohibiting hospitals from turning down urgent patients	3	urgent patients			1	Health	
+1				4	en	Legalizing the cultivation of cannabis for medical purposes	4	medicinal cannabis			1	Health	
+1				5	en	Recovery of stolen public funds	5	Public funds			2	Justice	
+1				6	en	Lifting public servants’ bank secrecy	6	Bank secrecy			2	Justice	
+1				7	en	Lifting parliamentary and ministerial immunities	7	Immunities			2	Justice	
+1				8	en	Remove unlawful occupations of the public maritime domain	8	Public maritime domain			2	Justice	
+1				9	en	Creation of a special international tribunal to sanction the misuse of public funds	9	Misuse of public funds			2	Justice	
+1				10	en	Strengthening judicial independence	10	Judicial Independence			2	Justice	
+1				11	en	De-criminalizing LGBT individuals	11	LGBT			2	Justice	
+1				12	en	End the funding of fraudulent associations	12	Fraudulent Associations			2	Justice	
+1				13	en	Enact unified personal status laws	13	Status laws			2	Justice	
+1				14	en	Adoption of the amnesty bill	14	amnesty bill			2	Justice	
+1				15	en	Appoint a committee of judges to draft a road map to reclaim public funds and fight corruption	15	Corruption			2	Justice	
+1				16	en	Reinstate subsidized housing loans	16	Housing loans			3	City/Citizen	
+1				17	en	Improving living conditions in detention facilities	17	Detention			3	City/Citizen	
+1				18	en	Introduction of safe bike lanes	18	Bike lanes			3	City/Citizen	
+1				19	en	Provide electricity 24h	19	Electricity 24h			3	City/Citizen	
+1				20	en	Investment in a train line from north to south	20	Train line			3	City/Citizen	
+1				21	en	Restructuring of the Lebanese post system	21	Lebanese Post			3	City/Citizen	
+1				22	en	Open Beirut’s park to the public	22	Beirut's Park			3	City/Citizen	
+1				23	en	Improve Urban planning	23	Urban Planning			3	City/Citizen	
+1				24	en	Revive and activate public transportation sector	24	Transportation			3	City/Citizen	
+1				25	en	"Proposing a modern media law that regulates the media	 including periodicals and non-periodicals	 television and radio media	 electronic media and digital messages. It also guarantees the protection of freedom of expression through the Internet."	25	media law & freedom of expression			3	City/Citizen	
+1				26	en	Freeze the licenses of crushers and quarries	26	Crushers & quarries			4	Environment	
+1				27	en	Set a global and sustainable solution to our waste management	27	waste management			4	Environment	
+1				28	en	Governmental incentives for car companies to introduce electric cars	28	electric cars			4	Environment	
+1				29	en	Governmental incentives to encourage carpooling	29	carpooling			4	Environment	
+1				30	en	Setting up a better rainwater harvesting system	30	rainwater			4	Environment	
+1				31	en	Put a plan to clean the sea	31	clean the sea			4	Environment	
+1				32	en	Launch a reforestation campaign	32	reforestation			4	Environment	
+1				33	en	Enact the optional civil marriage law	33	civil marriage			5	Family/ Personal	
+1				34	en	Enact Lebanese women's right to pass citizenship to her children	34	women's right to pass citizenship to her children			5	Family/ Personal	
+1				35	en	Enact Lebanese women’s right to pass citizenship to her children with some restrictions for both men and women if the partner is from Syria/Palestine	35	women's right to pass citizenship to her children + restrictions			5	Family/ Personal	
+1				36	en	Give more post natal vacation days	36	post natal vacation			5	Family/ Personal	
+1				37	en	Establish a proper public pension scheme	37	public pension scheme			5	Family/ Personal	
+1				38	en	Safe repatriation of Syrian refugees	38	Syrian refugees' safe repatriation			6	Security	
+1				39	en	Voluntary repatriation of Syrian refugees	39	Syrian refugees' voluntary repatriation			6	Security	
+1				40	en	Fighting smuggling and closure of illegal border crossings	40	Smuggling			6	Security	
+1				41	en	Strengthening the legal framework to protect migrant workers	41	migrant workers			6	Security	
+1				42	en	Find a solution for Stateless individuals who were born in Lebanon	42	Stateless individuals			6	Security	
+1				43	en	Formation of an independent technocratic government	43	technocratic government			7	Government	
+1				44	en	Formation of a political government with some technocratً ministers	44	political government +technocrats			7	Government	
+1				45	en	Elimination of political sectarianism	45	Eliminate sectarianism			7	Government	
+1				46	en	Maintaining a sectarian political system while introducing rotation among sects	46	sectarian system + rotation			7	Government	
+1				47	en	Early parliamentary elections	47	Early parliamentary elections			7	Government	
+1				48	en	New secular and proportional electoral law	48	secular + proportional electoral law			7	Government	
+1				49	en	Creation of a Senate	49	Senate			7	Government	
+1				50	en	Reduction of the number of MPs	50	number of MPs			7	Government	
+1				51	en	Reduction of the number of ministers	51	number of ministers			7	Government	
+1				52	en	Reduction of MPs and ministers’ salaries	52	MPs and ministers’ salaries			7	Government	
+1				53	en	Reduction of President/PM/Speaker of the Parliament's salaries and pensions	53	salaries and pensions			7	Government	
+1				54	en	Establish the principle of popular referendum	54	popular referendum			7	Government	
+1				55	en	Separate MP positions from ministerial positions	55	MP & ministerial positions seperation			7	Government	
+1				56	en	Abrogate mandatory consensual decision-making in the council of ministers	56	consensual decision-making			7	Government	
+1				57	en	Implementing administrative decentralization	57	administrative decentralization			7	Government	
+1				58	en	Increase support for the National Poverty Target Program (NPTP)	58	NPTP			7	Government	
+1				59	en	Transparent public tenders	59	public tenders			7	Government	
+1				60	en	Improve public services through the concept of Digital Government	60	Digital Governance			7	Government	
+1				61	en	Support volunteers of Civil Defence	61	Civil Defence			7	Government	
+1				62	en	Crafting and implementing a defense strategy	62	defense strategy			7	Government	
+1				63	en	Strengthening the role of the Civil Service Bureau	63	Civil Service Bureau			7	Government	
+1				64	en	Improvement of the Illicit Enrichment Act	64	Illicit Enrichment Act			7	Government	
+1				65	en	Enactment of a framework screening conflicts of interests and preventing them	65	conflicts of interests			7	Government	
+1				66	en	Dissolution of regional investment entities and obsolete governmental authorities	66	regional investment entities			7	Government	
+1				67	en	Recovery of banks’ returns on financial engineering schemes	67	banks’ returns			8	Economy	
+1				68	en	Reduction of MPs and ministers’ retirement pensions	68	MPs and ministers’ retirement pensions			8	Economy	
+1				69	en	Modification of the economic model to enhance the actual national production	69	economic model			8	Economy	
+1				70	en	Fighting tax evasion	70	tax evasion			8	Economy	
+1				71	en	Ending tax/tariff exemptions	71	tax/tariff exemptions			8	Economy	
+1				72	en	National plan to support Lebanese products	72	support Lebanese products			8	Economy	
+1				73	en	Mandate an international company to audit the State’s finances	73	External Audit			8	Economy	
+1				74	en	Activation of the State’s internal audit	74	State’s internal audit			8	Economy	
+1				75	en	Establishing proportional taxes on income	75	proportional  income taxes			8	Economy	
+1				76	en	Establishing a progressive income tax	76	progressive income tax			8	Economy	
+1				77	en	Tax increase on Banks profits and high net worth individuals	77	Tax on profits			8	Economy	
+1				78	en	Reducing the rates of telecommunication services	78	telecommunication			8	Economy	
+1				79	en	Increase taxes on tobacco and alcohol	79	taxes tobacco & alcohol			8	Economy	
+1				80	en	Extraction of oil and gas	80	Extraction of oil and gas			8	Economy	
+1				81	en	Allocation of our oil returns to reduce the public debt	81	oil returns			8	Economy	
+1				82	en	Assessing the efficiency of the Lebanese public sector	82	public sector's efficiency			8	Economy	
+1				83	en	Rethinking our monetary policy	83	The monetary policy			8	Economy	
+1				84	en	Increase the minimum wage	84	The minimum wage			8	Economy	
+1				85	en	Partial or total privatization of some public sector institutions	85	Privatization			8	Economy	
+1				86	en	Increase funding for public schools	86	public schools			9	Education	
+1				87	en	Increase the budget of the Lebanese University	87	Lebanese University			9	Education	
+1				88	en	Intervention programs for high-risk children and youth	88	Intervention programs			9	Education	
+1				89	en	Appoint a committee of scholars to write the Lebanese History from 1945 onward	89	Lebanese History			9	Education	
+1				90	en	Assess the seriousness of high education institutions and investigate the alleged fraudulent grant of degrees	90	fraudulent  high education degrees			9	Education	

@@ -1,0 +1,101 @@
+active	constitution	description	db_id	locale	name	id	short_name	subtopic	topic_id	topic_name	tweet
+1			24	es	"Fomentar el aprendizaje de ciencia	 tecnología y programación desde el colegio"	24	Ciencia y programación escuelas		3	Educación	
+1			29	es	Destinar los recursos faltantes para financiar el derecho a la educación básica primaria y secundaria	29	Recursos educación básica		3	Educación	
+1			55	es	"Respetar las opiniones expresadas en consultas previas sobre minería	 fracking	 deforestación y cuidado de recursos hídricos"	55	Participación ciudadana en energía-minería		5	Medio ambiente	
+1			2	es	Cumplir con la creación de un fondo de tierras para campesinos sin tierra o con tierra insuficiente 	2	Fondo campesinos sin tierra		1	Agricultura	
+1			12	es	"Privatización de Ecopetrol	 ISA	 CENIT	 electrificadoras regionales y todas las empresas donde la participación del estado sea inferior al 50%"	12	Privatizaciones		2	Economía	
+1			19	es	Renegociar los Tratados de Libre Comercio (TLC) con el fin de proteger la producción nacional y el agro colombiano	19	Renegociar TLC		2	Economía	
+1			17	es	Derogar el impuesto o “tarifazo nacional” para financiar Electricaribe	17	Financiar Electricaribe		2	Economía	
+1			60	es	Implementar planes para fomentar la economía familiar y solidaria	60	Fomento economía familiar y solidaria		6	Paz y proceso de paz	
+1			1	es	"Efectivizar la asistencia técnica	 tecnológica y en investigación al sector agrario"	1	Asistencia técnica agro		1	Agricultura	
+1			3	es	Creación de un plan masivo de formalización de la propiedad para campesinos	3	Formalización de tierras campesinos		1	Agricultura	
+1			4	es	Facilitar la comercialización de los productos campesinos al acercar al productor con el consumidor	4	Comercialización productos campesinos		1	Agricultura	
+1			5	es	"Priorizar planes nacionales en regiones más afectadas por el conflicto	 con mayor pobreza y menos institucionalidad"	5	Priorizar regiones afectadas por conflicto		1	Agricultura	
+1			6	es	Garantizar el acceso al crédito para los campesinos	6	Crédito campesinos		1	Agricultura	
+1			7	es	Ofrecer garantías de seguridad social para los trabajadores del campo	7	Seguridad social campesinos		1	Agricultura	
+1			8	es	"Implementar planes nacionales para proveer vías terciarias	 distritos de riego y drenaje	 electrificación y conectividad a internet en zonas rurales"	8	Infraestructura zonas rurales		1	Agricultura	
+1			9	es	Progresividad en los impuestos a ciudadanos y empresas	9	Progresividad en impuestos		2	Economía	
+1			10	es	Aumentar el salario mínimo por encima de la inflación	10	Salario mínimo		2	Economía	
+1			11	es	"Creación del Grupo Bicentenario	 un grupo financiero estatal que agrupará a las empresas del Estado que prestan servicios financieros"	11	Grupo Bicentenario		2	Economía	
+1			13	es	Cumplimiento del acuerdo política de desarrollo agrario integral	13	Desarrollo agrerio integral		1	Agricultura	
+1			14	es	Reducir la carga tributaria empresarial	14	Reducir carga tributaria empresarial		2	Economía	
+1			15	es	Implementar tres días al año sin IVA	15	Tres días sin IVA		2	Economía	
+1			16	es	Devolución del 100% del IVA para las familias más vulnerables	16	Devolución de IVA		2	Economía	
+1			18	es	Brindar beneficios a empresas o personas que inviertan en zonas de conflicto y post-conflicto	18	Inversión en zonas de conflicto		2	Economía	
+1			20	es	"Diseñar política para proteger a las empresas públicas	 evitando su venta	 fomentado su desarrollo y manejo eficiente de recursos"	20	Proteger empresas públicas		2	Economía	
+1			21	es	Cumplimiento de los compromisos que adquirió el gobierno con los estudiantes de educación superior	21	Compromisos educación superior		3	Educación	
+1			22	es	Garantizar la financiación y sostenibilidad de la educación pública superior	22	Financiación educación superior		3	Educación	
+1			23	es	Garantizar el acceso a internet en todas las instituciones educativas públicas del país	23	Internet escuelas		3	Educación	
+1			25	es	Aumentar el número de escuelas con jornada única	25	Jornada única colegios		3	Educación	
+1			26	es	Creación de la Superintendencia de Educación para luchar contra la corrupción en el sector educativo	26	Superintendencia contra corrupción		3	Educación	
+1			27	es	"Creación de un sistema de educación superior pública gratuito	 de calidad	 excelencia	 universal	 e innovativo"	27	Educación superior pública y gratuita		3	Educación	
+1			32	es	Mejorar y ampliar programas de becas para estudios universitarios	32	Becas universidades		3	Educación	
+1			33	es	Presupuestos participativos en la Universidades Públicas	33	Presupuestos participativos universidades		3	Educación	
+1			35	es	Ratificación de la Declaración de Derechos Humanos del Campesinado por parte del Estado Colombiano	35	Derechos Humanos Campesinado		4	Justicia y derechos civiles	
+1			36	es	Garantizar el derecho a la protesta social	36	Protesta social		4	Justicia y derechos civiles	
+1			38	es	Cumplimiento del acuerdo firmado entre la Minga Indígena y el Gobierno	38	Acuerdo Minga Indígena		4	Justicia y derechos civiles	
+1			39	es	Facilitar la migración con sentido humanitario	39	Migración con sentido humanitario		4	Justicia y derechos civiles	
+1			40	es	Reforma a la justicia para hacerla eficiente	40	Reforma justicia		4	Justicia y derechos civiles	
+1			80	es	Fortalecer la lucha contra el lavado de activos en todos los sectores de la economía	80	Lavado de activos		8	Seguridad ciudadana y defensa	
+1			41	es	Reestructurar el sistema penitenciario para garantizar los derechos fundamentales de los reclusos y la reincorporación social efectiva	41	Restructuración sistema penal		4	Justicia y derechos civiles	
+1			42	es	Legalización del uso recreativo de la marihuana	42	Marihuana recreativa		4	Justicia y derechos civiles	
+1			43	es	Hacer vinculantes las concertaciones con la sociedad civil de los Planes de Ordenamiento Territorial (POT) en los entes territoriales	43	POT vinculantes		4	Justicia y derechos civiles	
+1			44	es	Garantizar el derecho al agua y mejorar el cuidado de recursos hídricos	44	Derecho al agua		5	Medio ambiente	
+1			45	es	Prohibir la caza de tiburones con fines comerciales	45	Caza de tiburones		5	Medio ambiente	
+1			47	es	Prohibir el fracking y prácticas similares que pongan en riesgo al medio ambiente	47	Fracking		5	Medio ambiente	
+1			48	es	Prohibir la compra de vehículos para transporte público con tecnologías contaminantes	48	Transporte limpio		5	Medio ambiente	
+1			49	es	"Ratificación del acuerdo regional sobre el Acceso a la Información	 la Participación Pública y el Acceso a la Justicia en Asuntos Ambientales (Acuerdo de Escazú)"	49	Acuerdo de Escazú		5	Medio ambiente	
+1			50	es	Garantizar la protección de las áreas de especial interés ambiental	50	Áreas de interés ambiental		5	Medio ambiente	
+1			51	es	Cambio progresivo en las fuentes de energía para reemplazar combustibles fósiles por fuentes renovables y combustibles no convencionales	51	Reemplazo de combustibles fósiles		5	Medio ambiente	
+1			52	es	"Prohibir la minería a cielo abierto y la explotación de hidrocarburos en ecosistemas estratégicos	 áreas protegidas y reservas forestales"	52	Prohibir minería cielo abierto		5	Medio ambiente	
+1			53	es	Implementación del impuesto al carbono	53	Impuesto al carbono		5	Medio ambiente	
+1			54	es	Establecer un sistema tributario que estimule la inversión en energías renovables	54	Estímulo energías limpias		5	Medio ambiente	
+1			28	es	Destinar más recursos a ciencia y tecnología	28	Recursos ciencia y tecnología		3	Educación	
+1			30	es	Simplificación del proceso y los requisitos para acceder a créditos de estudio del Instituto Colombiano de Crédito Educativo y Estudios Técnicos en el Exterior (ICETEX)	30	Simplificar créditos ICETEX		3	Educación	
+1			31	es	Reducción de las tasas de interés del Instituto Colombiano de Crédito Educativo y Estudios Técnicos en el Exterior (ICETEX) para créditos educativos	31	Reducir tasas ICETEX		3	Educación	
+1			34	es	Garantías reales y efectivas para proteger a los líderes sociales	34	Garantías líderes sociales		4	Justicia y derechos civiles	
+1			37	es	Legalización del aborto voluntario	37	Aborto voluntario		4	Justicia y derechos civiles	
+1			56	es	Prohibir las fumigaciones con glifosato en el territorio nacional	56	Fumigaciones glifosato		5	Medio ambiente	
+1			46	es	Controlar la deforestación de la Amazonía e implementar el plan nacional de reforestación	46	Deforestación Amazonía		5	Medio ambiente	
+1			57	es	Implementación del Acuerdo de Paz	57	Acuerdo de Paz		6	Paz y proceso de paz	
+1			58	es	Retomar diálogo con el Ejército de Liberación Nacional (ELN)	58	Diálogo con ELN		6	Paz y proceso de paz	
+1			98	es	Limitar a tres períodos la elección de funcionarios de corporaciones públicas	98	Límite en corporaciones públicas		10	Transparencia y lucha contra corrupción	
+1			59	es	Crear la jurisdicción agraria para resolver los conflictos en torno a la tierra	59	Jurisdicción agraria conflictos tierra		6	Paz y proceso de paz	
+1			61	es	Garantizar la reincorporación de los ex combatientes	61	Reincorporar ex combatientes		6	Paz y proceso de paz	
+1			62	es	Cumplir el acceso a proyectos productivos contemplados en el plan de sustitución de cultivos	62	Sustitución de cultivos		6	Paz y proceso de paz	
+1			63	es	Mantener la jurisdicción especial para la paz (JEP)	63	Mantener JEP		6	Paz y proceso de paz	
+1			64	es	Ley de comida chatarra para implementar etiquetado frontal de advertencia en productos no saludables	64	Ley comida chatarra		7	Salud	
+1			65	es	"Estrategia para propiciar entornos alimentarios saludables en las instituciones educativas de los niveles de preescolar	 básica y media"	65	Alimentos saludables en escuelas		7	Salud	
+1			66	es	Mejorar y efectivizar el control de los precios de medicamentos	66	Control precios medicamentos		7	Salud	
+1			67	es	Implementar la telemedicina y equipos móviles de atención	67	Telemedicina y equipos móviles		7	Salud	
+1			68	es	Incentivar la lactancia materna y prácticas óptimas de alimentación infantil	68	Lactancia materna y alimentación infantil		7	Salud	
+1			69	es	Garantizar el derecho a la alimentación y la nutrición mediante la amplia divulgación de información en salud pública	69	Garantizar derecho nutrición		7	Salud	
+1			70	es	"Restricción de la publicidad dirigida a niños	 niñas y adolescentes de productos de consumo nocivos"	70	Restringir publicidad productos nocivos		7	Salud	
+1			71	es	Etiquetado de productos que hayan sido genéticamente modificados o que contengan organismos genéticamente modificados	71	Etiquetado OGM		7	Salud	
+1			72	es	"Legalización de la producción	 distribución y venta de drogas para consumo adulto"	72	Legalización drogas		7	Salud	
+1			73	es	Aumento del presupuesto para atención primaria en salud	73	Reforma sistema de salud		7	Salud	
+1			74	es	Fortalecer el control sobre las Entidades Promotoras de Salud (EPS) y las Instituciones Prestadoras de Servicios (IPS)	74	Control EPS IPS		7	Salud	
+1			75	es	Abordar el problema de las drogas como un tema de salud pública	75	Drogas como salud pública		7	Salud	
+1			76	es	Desmontar el Escuadrón Móvil Antidisturbios (ESMAD)	76	Desmonte ESMAD		8	Seguridad ciudadana y defensa	
+1			77	es	Revisión de los protocolos de acción del Escuadrón Móvil Antidisturbios (ESMAD) para que se rijan bajo el Protocolo Internacional de Derechos Humanos	77	Reforma ESMAD		8	Seguridad ciudadana y defensa	
+1			78	es	"Protección y fortalecimiento de la figura de ""Defensor de Derechos Humanos"" en las protestas y manifestaciones en Colombia"	78	Derechos humanos manifestaciones		8	Seguridad ciudadana y defensa	
+1			79	es	Establecer estrictos controles a la producción y tráfico de insumos para la producción de narcóticos	79	Control insumos narcóticos		8	Seguridad ciudadana y defensa	
+1			81	es	Fortalecer el régimen pensional de prima media y a Colpensiones	81	Fortalecer régimen pensional y Colpensiones		9	Trabajo y pensiones	
+1			82	es	Establecer un tope máximo pensional a 15 salarios mínimos	82	Reducción megapensiones		9	Trabajo y pensiones	
+1			83	es	Retirar el proyecto de ley que propone el aumento de la jornada laboral	83	Aumento jornada laboral		9	Trabajo y pensiones	
+1			84	es	Salario diferencial por regiones	84	Salario diferencial regiones		9	Trabajo y pensiones	
+1			85	es	Reducir el salario mínimo para los jóvenes con el fin de reducir el desempleo	85	Salario mínimo jóvenes		9	Trabajo y pensiones	
+1			86	es	Permitir la contratación por horas para jóvenes	86	Contratación por horas jóvenes		9	Trabajo y pensiones	
+1			87	es	Privatización de Colpensiones y traslado de los afiliados a los fondos privados (AFP)	87	Privatización Colpensiones		9	Trabajo y pensiones	
+1			88	es	Establecimiento del Beneficio Económico Periódico (BEP) como sistema de ahorro para quienes tienen ingresos por debajo del salario mínimo (pensiones por debajo del mínimo)	88	BEP pensiones debajo mínimo		9	Trabajo y pensiones	
+1			89	es	Reducir progresivamente los aportes a salud de pensionados según monto de pensiones	89	Aportes salud pensionados		9	Trabajo y pensiones	
+1			90	es	Otorgar incentivos tributarios para las empresas que contraten a jóvenes entre 18 y 28 años	90	Incentivos tributarios empleo joven		9	Trabajo y pensiones	
+1			91	es	Sistema universal de protección a la vejez	91	Protección a la vejez		9	Trabajo y pensiones	
+1			92	es	Reducir el salario de congresistas y altos funcionarios del Estado	92	Salario congresistas		10	Transparencia y lucha contra corrupción	
+1			93	es	Efectivizar cárcel a corruptos y prohibición de volver a contratar con el Estado	93	Cárcel corruptos		10	Transparencia y lucha contra corrupción	
+1			94	es	Hacer efectiva la contratación transparente obligatoria en todo el país	94	Contratación transparente		10	Transparencia y lucha contra corrupción	
+1			95	es	Presupuestos públicos con participación de la ciudadanía en todos los entes territoriales	95	Participación ciudadana en presupuestos		10	Transparencia y lucha contra corrupción	
+1			96	es	"Congresistas deben rendir cuentas de su asistencia	 votación y gestión"	96	Rendimiento de cuentas congresistas		10	Transparencia y lucha contra corrupción	
+1			97	es	Hacer pública la declaración de renta de todos los funcionarios públicos elegidos popularmente	97	Hacer públicos ingresos de políticos		10	Transparencia y lucha contra corrupción	
+1			100	es	Garantizar el acceso a la información de todas las entidades que manejen recursos públicos	100	Información pública gobierno		10	Transparencia y lucha contra corrupción	
+1			99	es	Castigar con inhabilidad durante el siguiente período constitucional a los congresistas que reporten ausentismo en más del 40% de las sesiones	99	Ausentismo congresistas		10	Transparencia y lucha contra corrupción	
